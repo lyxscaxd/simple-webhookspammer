@@ -14,7 +14,7 @@ print("""
                            
 
                                     Made by lyxsca
-                                  Github: lyxscaxd
+                                   Github: lyxscaxd
 """)
 
 #imports

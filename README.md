@@ -1,0 +1,2 @@
+# simple-webhookspammer
+Opensource webhookspammer
